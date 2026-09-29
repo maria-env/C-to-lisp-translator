@@ -40,4 +40,4 @@ main ( ) {
 
 ## Autoría
 
-Trabajo en equipo de María Arias Rodríguez y Jorge Castañeda.
+Trabajo en equipo de María Arias Rodríguez y Jorge Ignacio Castañeda Vallenilla.
