@@ -1,4 +1,4 @@
-# C-like Language to Lisp Compiler
+# C-like Language to Lisp Translator
  
 Source-to-source translator built with Bison (LALR grammar) that converts programs written in a subset of C into Lisp code. Final project for the Programming Language Processors course (Universidad Carlos III de Madrid).
  
