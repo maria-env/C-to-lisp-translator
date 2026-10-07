@@ -1,7 +1,3 @@
-/*
-     María Arias Rodríguez, Jorge Ignacio Castañeda Vallenilla
-     100522272@alumnos.uc3m.es, 100522273@alumnos.uc3m.es
-*/
 %{                          // SECCION 1 Declaraciones de C-Yacc
 
 #include <stdio.h>
